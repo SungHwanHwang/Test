@@ -12,6 +12,7 @@ namespace Test
         {
             Console.WriteLine("Hello Git");
             Console.WriteLine("분기 테스트");
+            Console.WriteLine("세번째 변경");
         }
     }
 }
