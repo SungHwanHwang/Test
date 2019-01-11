@@ -11,6 +11,7 @@ namespace Test
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Git");
+            Console.WriteLine("분기 테스트");
         }
     }
 }
